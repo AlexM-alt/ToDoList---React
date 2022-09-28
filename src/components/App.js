@@ -22,7 +22,7 @@ class App extends Component {
       { id: 5, text: "jeszcze raz pomalować dom", date: '2023-09-11', important: false, active: true, finishDate: null },
       { id: 6, text: "fryzjer!!!", date: '2023-05-20', important: true, active: true, finishDate: null },
       { id: 7, text: "nie odbierać poleconego od komornika", date: '2023-11-12', important: false, active: true, finishDate: null },
-      { id: 8, text: "kupić 2 butelki litrowe", date: '2023-09-11', important: false, active: true, finishDate: null },
+      { id: 8, text: "kupić 2 butelki litrowe", date: '2023-09-11', important: false, active: false, finishDate: null },
     ]
   }
 
